@@ -8,7 +8,7 @@ To identify open ports within a local network and assess potential security expo
 
 **Date:** 20-10-2025  
 **Author:** Charitardha Pulipati  
-**Repository:** [GitHub repo link here]
+**Repository:** [https://github.com/Charitardha555/Elevate-labs-Cybersecurity-Task-01]
 
 ---
 
@@ -31,11 +31,7 @@ To identify open ports within a local network and assess potential security expo
 3. **Analyze the output**  
 - Number of active hosts: 6  
 - List of IPs with open ports: 3  
-- Common services detected: 80/tcp (http)  
-
-4. **(Optional) Capture traffic using Wireshark**  
-Capture file name: [Enter file name here]  
-Observations: [Enter key findings here]  
+- Common services detected: 80/tcp (http)
 
 ---
 
@@ -78,20 +74,17 @@ The port scan reveals a network with varied exposure levels across devices. Whil
 
 ## Files Included  
 
-- 'task 1 Nmap scan.txt` — raw scan output  
-- `network_analysis.pcap` — optional Wireshark capture file  
+- 'Task_1_Nmap_scan.txt` — raw scan output  
+- Wireshark capture file is not uploaded due to the security reasons
 - `README.md` — task documentation (this file)  
-- `screenshots/` — evidence of commands & output (add images here)
+- `screenshots/` — evidence of commands & output
 
 ---
 
 ## Screenshots  
-
-Add your screenshots of Nmap and Wireshark commands and outputs in the `screenshots` folder. Reference them below:  
+ 
 
 ![Nmap Scan Screenshot](./screenshots/nmap_scan.png)  
 ![Wireshark Capture Screenshot](./screenshots/wireshark_capture.png)  
 
 ---
-
-Feel free to update the placeholders with actual data and answers. This README structure is well-suited for professional GitHub submission and will clearly showcase your work and findings.
