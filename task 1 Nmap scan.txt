@@ -1,0 +1,57 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-10-20 16:42 India Standard Time
+Nmap scan report for 192.168.1.1
+Host is up (0.0026s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT    STATE    SERVICE
+23/tcp  filtered telnet
+53/tcp  open     domain
+80/tcp  open     http
+443/tcp open     https
+MAC Address: 10:10:81:E9:F0:6C (zte)
+
+Nmap scan report for 192.168.1.2
+Host is up (0.0063s latency).
+All 1000 scanned ports on 192.168.1.2 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 02:00:CB:FC:7E:4C (Unknown)
+
+Nmap scan report for 192.168.1.3
+Host is up (0.0065s latency).
+All 1000 scanned ports on 192.168.1.3 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: DA:72:CD:44:A3:97 (Unknown)
+
+Nmap scan report for 192.168.1.4
+Host is up (0.0040s latency).
+All 1000 scanned ports on 192.168.1.4 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 56:C5:5D:70:EF:65 (Unknown)
+
+Nmap scan report for 192.168.1.6
+Host is up (0.0027s latency).
+Not shown: 994 closed tcp ports (reset)
+PORT     STATE SERVICE
+5555/tcp open  freeciv
+8008/tcp open  http
+8009/tcp open  ajp13
+8010/tcp open  xmpp
+8443/tcp open  https-alt
+9000/tcp open  cslistener
+MAC Address: 84:C8:A0:03:A7:E6 (Hui Zhou Gaoshengda Technology)
+
+Nmap scan report for 192.168.1.8
+Host is up (0.00056s latency).
+Not shown: 990 closed tcp ports (reset)
+PORT      STATE SERVICE
+80/tcp    open  http
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+443/tcp   open  https
+445/tcp   open  microsoft-ds
+2179/tcp  open  vmrdp
+3306/tcp  open  mysql
+3580/tcp  open  nati-svrloc
+5357/tcp  open  wsdapi
+16992/tcp open  amt-soap-http
+
+Nmap done: 256 IP addresses (6 hosts up) scanned in 7.16 seconds
