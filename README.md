@@ -1,8 +1,6 @@
 # Elevate-labs-Cybersecurity-Task-01
 # Task 1 – Local Network Port Scanning
 
-# Task 1 – Local Network Port Scanning
-
 ## Objective  
 To identify open ports within a local network and assess potential security exposures.
 
